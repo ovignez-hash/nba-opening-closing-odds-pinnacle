@@ -167,8 +167,8 @@ Once a year, after the Finals, the file adds the completed season. The games aft
 ## Licence
 
 Sample: free to explore and evaluate.
-Full product: single commercial user. Research, modelling and internal use permitted.
-Redistribution and resale of the files are not.
+Full product: single commercial user. Use the data as you wish, including the models, predictions and products you sell.
+Redistribution and resale of the files, or of the raw data in another format, are not permitted.
 
 A question before buying: contact@oliviersportsdata.com
 
