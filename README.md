@@ -106,7 +106,7 @@ here, game by game: `sample/README.md`.
 ```python
 import pandas as pd
 
-df = pd.read_csv("NBA_Opening_Closing_Odds_2018-2026_SAMPLE.csv")
+df = pd.read_csv("sample/NBA_Opening_Closing_Odds_2018-2026_SAMPLE.csv")
 
 def prob(us):                          # American odds -> implied probability
     return -us / (-us + 100) if us < 0 else 100 / (us + 100)
