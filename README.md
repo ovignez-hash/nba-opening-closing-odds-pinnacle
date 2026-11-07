@@ -9,7 +9,7 @@ Fanatics, Hard Rock, theScore and BetOnline, next to Pinnacle, Bet365, Kalshi an
 total, **the opening and the closing price, each with the time it was recorded**, plus Pinnacle's team totals for
 both teams.
 
-→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=hero)** — 10,323 games, October 2018 to 1 November 2026
+→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=hero)** — 10,323 games, October 2018 to 1 November 2026 · also on [Whop](https://whop.com/oliviersportsdata/nba-opening-closing-odds-9-us-books-pinnacle-2018-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=whop_hero)
 
 This sample is cut from the full file: the same 284 columns, the rows copied byte for byte, at 0.2% scale.
 
@@ -160,7 +160,7 @@ PASS or FAIL:
 Once a year, after the Finals, the file adds the completed season. The games after 1 November 2026 come with the
 [NBA monthly updates](https://sportsdataolivier.gumroad.com/l/uftmyi?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=monthly): each month's games, same 284 columns, ready to append.
 
-→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=footer)**
+→ **[Get the full archive](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/nba-opening-closing-odds-9-us-books-pinnacle-2018-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=whop_footer)
 
 ---
 
