@@ -5,7 +5,7 @@ columns: every row is copied byte for byte from the full CSV. Only the number of
 
 `NBA_Opening_Closing_Odds_2018-2026_SAMPLE.csv` — 20 rows, 284 columns, UTF-8, comma-separated. 1,846 prices.
 
-🏀 **[→ The full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=sample_readme&utm_campaign=nba_oc&utm_content=readme)**
+🏀 **[→ The full dataset on Gumroad](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=sample_readme&utm_campaign=nba_oc&utm_content=readme)** · also on [Whop](https://whop.com/oliviersportsdata/nba-opening-closing-odds-9-us-books-pinnacle-2018-2026/?utm_source=github&utm_medium=sample_readme&utm_campaign=nba_oc&utm_content=whop_readme)
 
 ## The 20 games
 
