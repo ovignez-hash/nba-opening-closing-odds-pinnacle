@@ -84,6 +84,7 @@ here, game by game: `sample/README.md`.
 |---|---|
 | `sample/NBA_Opening_Closing_Odds_2018-2026_SAMPLE.csv` | the 20 games, 284 columns |
 | `sample/README.md` | why each game is here, then the README of the full product |
+| `matchup_stats_sample/` | the same 20 games in NBA Matchup & Stats: game sheets, team and player box scores, inactive players (4 CSV + README) |
 | `NBA_Verify_Before_You_Buy.ipynb` | the figures of the listing and of its README recomputed from the full file, results shown |
 
 ---
@@ -159,6 +160,8 @@ PASS or FAIL:
 
 Once a year, after the Finals, the file adds the completed season. The games after 1 November 2026 come with the
 [NBA monthly updates](https://sportsdataolivier.gumroad.com/l/uftmyi?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=monthly): each month's games, same 284 columns, ready to append.
+
+The box score behind each game is sold separately: [NBA Matchup & Stats](https://sportsdataolivier.gumroad.com/l/nnadkm?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=matchup) (also on [Whop](https://whop.com/oliviersportsdata/nba-matchup-stats-game-sheets-box-scores-2008-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=matchup_whop)): game sheets, team and player box scores and inactive players since 2008-09, on the same Game_ID. Its 20-game sample is in `matchup_stats_sample/`.
 
 → **[Get the full archive](https://sportsdataolivier.gumroad.com/l/degjxu?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=footer)** · also on [Whop](https://whop.com/oliviersportsdata/nba-opening-closing-odds-9-us-books-pinnacle-2018-2026/?utm_source=github&utm_medium=readme&utm_campaign=nba_oc&utm_content=whop_footer)
 
